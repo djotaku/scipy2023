@@ -1,0 +1,6 @@
+Immediately says yes, there can be too much parallelism.
+
+To be more subtle - if using more than one scientific python package, they may not play well together.
+
+vendoring your libraries is one potential solution
+

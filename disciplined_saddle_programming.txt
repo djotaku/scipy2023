@@ -1,0 +1,10 @@
+domain specific programming for saddle programming
+
+this is for convex optimization functions
+
+CVXPY can solve these functions in a natural way
+
+speaker shows many ways that you can take a 2 constraint problem into a 1 constraint problem
+
+the conic standard form functions as an API
+

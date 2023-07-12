@@ -1,0 +1,20 @@
+ethical challenges:
+
+- no one signed up to be your test subject
+    - when can we assume consent?
+- quantitative/qualitative OSS data is usually not subject ot IRB review
+- people don't readily sit in a single dimensional cluster - we could end up erasing people or reducing folks to harmful vectors
+- people from vulnerable pops may separate their identities acros smultiple online communites and spaces
+    - aggregating the data may "unmask" them
+- does anti-aliasing datasets peotentially create opportunities for harm for members of OSS communites?
+
+Legal challenges
+- this data is "open" - can I use it?
+- this data is "public" - can I use it?
+- is this fair use? (this is always changing)
+- which license for what?
+
+policy challenges:
+- when does a foundatoin speak for a project? A maintainer? A community?
+- can foundations "opt-in" communities an dprojects into ecosystem scale research?
+-

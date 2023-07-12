@@ -1,0 +1,5 @@
+speaker wanted to add types to pandas
+
+speaker creates a pydantic-like workflow for pandas
+
+needs more work to be fully compatible with Pandas 2.x

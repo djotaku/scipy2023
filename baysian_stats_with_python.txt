@@ -1,0 +1,16 @@
+speaker does not prefer black box methods
+
+an opposite of bayesian is frequentist; ignores the past
+
+when using prior distributions you may have more confidence in some params than others.
+
+you also have to do regularization
+
+Slide contains a formula that shows the relationship between the prior, likelihood, and posterior
+
+bayes_mapvar package takes a bayesian model spec and outputs the posterir mode eistmate and posterior variance estimate
+
+It works with a TensorFlow Probability dictionary
+
+example uses Google's Bard to get data.
+
