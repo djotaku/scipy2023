@@ -1,0 +1,18 @@
+Sharing analysis is a different skillset than doing the research
+
+Jupyter made it easier to combine data and code and make it accessible to people
+
+Quatro is supposed to help solve the last mile of scientific publishing
+
+It builds on pandoc markdown
+
+It renders a Jupyter notebook which  into pdf or word (or both!)
+
+You can publish to Confluence, Github, other places
+
+You can create a website using Quarto and VS Code
+
+also can  make interactive documents
+
+
+

@@ -1,0 +1,17 @@
+After a company recieves a subpoena, the company leadership has to decide how to fulfill it - completely? Partially? Fight it?
+
+Consider a subpoena as a request for customer data (same as any other customer)
+
+Firefox collects data on a continuum from less to more sensitive.
+
+They have many ways to protect sensitive data. One of the things they do includes PII filtering.
+
+Some of their requirements for PII filtering:
+- Favor simplicity
+- err on the side of caution
+- mainatin control - do it inhouse
+- low barrier to entry
+
+An important thing is to monitor your results ot make sure your assumptions continue to hold.
+
+

@@ -1,0 +1,31 @@
+they worked with 10s of disabled people to get the data
+
+Accesibility in this talk they mean disabled people
+
+Possible disabilities:
+- visual
+- auditory
+- motor
+- cognitive
+Can be constant or tmeporary
+
+Percievable - people need to be able to access all ocntnet in a notebook
+ - you can use alt text
+ - or audio transcription
+ - text is very reliable and flexible
+    - reliable - most assistive text can work with it
+    - flexible - it can zoom and reflow
+    - color - check the contrast; should not be the only source of information;
+    - make sure your visualizations are labeled
+
+Operable - people need to be able ot use everything in the notebook
+    - headings - use markdown headings
+    - no flashing content (no more than 3 times per second)
+    - understandable - explicit context
+    - use plain language - limit jargon
+
+Adopt a checklist!
+
+Try at least one recc from the talk.
+
+

@@ -1,0 +1,15 @@
+Hypothesis - testing science tools is hard and so we need better tests. So hypothesis provides properties-based testing.
+
+A section about how Python 3.11 is faster (10-60%, depending on code) Also better tracebacks. For Python 3.12 - f-string grammar being added. More parallelism (per-interpreter GIL).Tracing will get faster. Buffer protocol no longer needs a C extension.
+
+A section about Dask.Memory management has been improved (especially if using Pandas) Lots of commercial tools for deploying dask (including K8s) Newest version compatible with Pandas 2.x.
+
+cibuildwheel - JSON output added. Support for Pyton 3.12 beta. Can cross-compile for Windows ARM. PyPy Apple Si support.
+
+conda ecosystem - CUDA12, new solver.
+
+awkward array - allows for manipulating JSON data with numpy idioms. Added dask-awkward optimization for disk access.
+
+pangeo - big data geoscience. They have regular community meetings where people give talks relative to the community. (sign up on website) There's a discouse forum as well.Pangeo Forge - a repo for ocean, weather, and climate science.
+
+cython - Cython 3.0 RC is out now. Final release should be out in the next few weeks. Works better with C++ and is more pythonic.Type annotations have arrived.

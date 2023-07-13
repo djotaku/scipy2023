@@ -1,0 +1,13 @@
+how can we protect vulnerable groups while measuring representation in our communities?
+
+beause they are usually underrepresented - how do you avoid exposing what may the the only member of a group
+
+Who is accountable for what data? Eg company, project, regulator
+
+You can be direct (eg survey), indirect (scrape data), or guess (speaker does not recommend because it can lead to use of stereotypes)
+
+Make sure oyu understand how consent is given or withdrawn? We usually don't consider how to withdraw (esp if anonymous survey)
+
+With sampling - you have to be careful about defining the smallest sample you will share. (eg - don't share if you have 30-50 or less responses from a group)
+
+During surveys - ask the minimal amount of questions. Also, 10-15 min total is best. If ask for too much - the dataset becomes more risky if exposed.

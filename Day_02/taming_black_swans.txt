@@ -1,0 +1,15 @@
+long-tail distributions are common, but violate our intuition
+
+With his example - the first important thing was to move from linear to a log scale.
+
+Is we see the s curve it's a better first
+
+That above was with the x axis put on the log scale.
+
+Then he wants to put the y-axis on a log scale. This can help expand the "tail" section, but squashes the early part of the data.
+
+You need to have your data visualized well so that you can understand the data correctly.
+
+
+
+

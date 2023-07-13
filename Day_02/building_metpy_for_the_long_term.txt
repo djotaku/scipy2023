@@ -1,0 +1,28 @@
+it's a python toolkit for meteorology (since 2008)
+
+used in education and operations
+
+money is not enough to have it be sustainable. You can get lots of money towards the project and still not have enough folks to work it.
+
+So sustainable should be - "the capacity of software to endure"
+
+How to be sustainable?
+- automate everything
+- bugs inevitable
+- painful task? automate!
+- tests!
+- keep infra in git
+- use org accounts instead of individual accounts (where possible)
+
+Use Github Actions Pipelines
+
+CI testing - can end up with combinatorial issues if oyu need to check across lots of versions
+
+Dependabot - multiple upstream deps change and can break you. Best to pin versions in CI to give you control over when versions update.
+
+One bad thing about Dependabot - it doesn't understand Conda
+
+These things make it more sustainable, but workflows don't maintain themselves. They do require work to keep up to date.
+
+Work required to turn contributors to maintainers
+
