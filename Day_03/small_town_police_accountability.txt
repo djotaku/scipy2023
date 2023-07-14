@@ -1,0 +1,20 @@
+Police tend to hide sustantial amounts of data.
+
+Policing differs based on where you are and who you are.
+
+Why small towns? It's a worse prolem in small towns despite what you're used to from the news
+
+information available is bimodally distributed
+
+A lot of the data is open source.
+
+Seattle has good data available.
+
+Other cities need scraping. (And or Selenium)
+
+For manual collection - you may need to submit a FOIA/FOIL/Open Records request if stonewalled.
+
+Once you have data, need to clean it up.
+
+make sure that anonymous in a way that you can't infer the person so they can't be reharmed.
+

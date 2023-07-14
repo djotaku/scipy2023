@@ -1,0 +1,8 @@
+fastplotlib
+
+Use GPUs to make fast, interactive visualizations
+
+pygfx is a twice-removed abstraction layer to Vulkan, DirectX12, and Metal
+
+demos incredibly impressive - running over the net. Conference is in Tx and data center is on the east coast.
+

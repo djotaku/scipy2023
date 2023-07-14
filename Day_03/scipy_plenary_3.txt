@@ -1,0 +1,18 @@
+napari -new releases and new steering council.
+
+spyder - 6.x alpha out now
+
+yt - 4.1 and 4.2 releases.
+
+pybind11 and nanobind - C++ api for python.
+
+networkx - network analysis in python
+
+lots of new numpy features. 2.0 release this winter.
+
+Jupyter - lots of new releases like Lab 4.0 and Notebook 7.0. JupyterLite released as well. Jupyter server 2.0 released
+
+Ibis - 6.0 release
+
+
+

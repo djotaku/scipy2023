@@ -1,0 +1,8 @@
+They want to make sure folks aren't doing recreational activities near dangerous areas.
+
+They were previously using geotagged photos, but folks are doing that less so they used data from Strava and AllTrails
+
+Uses MaxEnt model since absences are unknown
+
+There are problems with the data from Strava and AllTrails - they aren't reserach tools so they allow some user edits that make the data less accurate
+
