@@ -1,0 +1,99 @@
+ 
+Backcountry Recreation
+
+They want to make sure folks aren't doing recreational activities near dangerous areas.
+
+They were previously using geotagged photos, but folks are doing that less so they used data from Strava and AllTrails
+
+Uses MaxEnt model since absences are unknown
+
+There are problems with the data from Strava and AllTrails - they aren't reserach tools so they allow some user edits that make the data less accurate
+
+-----------------
+
+Better Open Source Hag with Project Pythia
+
+can't just reduce barriers, need to require active partricipation and support
+
+------------------
+
+Community First Open Source
+
+First contrasts against Company-backed OSS
+
+---------------------
+
+Keynote: Responsible AI
+
+Not interested in the skynet problem. That's boring.
+
+So what's interesting/new?
+
+Gen AI has increased the accessibility of AI systems - eg it came code for you
+
+how do we keep AI from harming people (biases, eg)
+
+review of old biases
+
+culture of making the AI take the blame vs the programmers or the training
+
+regulation is actually something that can help!
+
+Algorithmic auditing is a new field, but the speaker would like to see it evolve
+
+-------------------
+
+SciPy Plenary 3
+
+napari -new releases and new steering council.
+
+spyder - 6.x alpha out now
+
+yt - 4.1 and 4.2 releases.
+
+pybind11 and nanobind - C++ api for python.
+
+networkx - network analysis in python
+
+lots of new numpy features. 2.0 release this winter.
+
+Jupyter - lots of new releases like Lab 4.0 and Notebook 7.0. JupyterLite released as well. Jupyter server 2.0 released
+
+Ibis - 6.0 release
+
+-------------
+
+Small Town Police Accountability
+
+Police tend to hide sustantial amounts of data.
+
+Policing differs based on where you are and who you are.
+
+Why small towns? It's a worse prolem in small towns despite what you're used to from the news
+
+information available is bimodally distributed
+
+A lot of the data is open source.
+
+Seattle has good data available.
+
+Other cities need scraping. (And or Selenium)
+
+For manual collection - you may need to submit a FOIA/FOIL/Open Records request if stonewalled.
+
+Once you have data, need to clean it up.
+
+make sure that anonymous in a way that you can't infer the person so they can't be reharmed.
+
+-----------------
+
+Ultrafast Visualization 
+
+fastplotlib
+
+Use GPUs to make fast, interactive visualizations
+
+pygfx is a twice-removed abstraction layer to Vulkan, DirectX12, and Metal
+
+demos incredibly impressive - running over the net. Conference is in Tx and data center is on the east coast.
+
